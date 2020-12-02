@@ -39,4 +39,6 @@ In addition, [MySQLWorkbench](https://www.mysql.com/products/workbench/) will ai
 
 On our module page, you will find a link to [download an example data set](https://dev.mysql.com/doc/employee/en/). Please do this so that we have a data set to work with. In step 3, the import page, you will be asked to use the command `mysql -t < employees.sql` to import the data into mySQL. If this doens't work, you can use `mysql -u root -p -t < employees.sql`, which will allow you to enter your password. Likewise, in step 4, the validation page, you can use `time mysql -u root -p -t < test_employees_sha.sql`.
 
-For additional material on SQL, please see the `extra resources` folder for a PDF from Robb Sombach at the University of Alberta and the accompanying public [Google Drive folder](https://drive.google.com/drive/folders/1WPsdfOOlQIAWTFnOHLBtSYujrX_G4xDl) 
+For additional material on SQL, please see the `extra resources` folder for a PDF from Robb Sombach at the University of Alberta and the accompanying public [Google Drive folder](https://drive.google.com/drive/folders/1WPsdfOOlQIAWTFnOHLBtSYujrX_G4xDl).
+
+The RStudio `dbplyr` info page can be found [here](https://db.rstudio.com/dplyr/).
