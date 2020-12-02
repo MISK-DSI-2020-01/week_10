@@ -33,7 +33,7 @@ A reminder, for those of you intersted in exploring Natural Language Processing 
 
 ## SQL
 
-For the SQL module, which can be found [here](http://scavetta.academy/misk/mlops/02_databases_sql.html), please install mySQL locally. You can find installation instructions [here](https://dev.mysql.com/doc/mysql-installation-excerpt/5.7/en/). Steps 5 & 6 are for Windows and macOS, respectively. You will be asked to create an Oracle Web Account when downloading  (and verify via email). To test whether your installation worked, type `which mysql` in your command line. 
+For the SQL module, which can be found [here](http://scavetta.academy/misk/mlops/02_databases_sql.html), please install mySQL locally. You can find installation instructions [here](https://dev.mysql.com/doc/mysql-installation-excerpt/5.7/en/). Steps 5 & 6 are for Windows and macOS, respectively. You will be asked to create an Oracle Web Account when downloading  (and verify via email). To test whether your installation worked, type `which mysql` in your command line. You may need to manually add mySQL to your PATH, which tells you system the global location of applications. On a Mac you can execute `export PATH=${PATH}:/usr/local/mysql/bin` in the terminal. For Windows, please see this [page](https://dev.mysql.com/doc/mysql-windows-excerpt/8.0/en/mysql-installation-windows-path.html),
 
 In addition, [MySQLWorkbench](https://www.mysql.com/products/workbench/) will aid in executing commands, please install it after you have mySQL installed. 
 
