@@ -42,3 +42,7 @@ On our module page, you will find a link to [download an example data set](https
 For additional material on SQL, please see the `extra resources` folder for a PDF from Robb Sombach at the University of Alberta and the accompanying public [Google Drive folder](https://drive.google.com/drive/folders/1WPsdfOOlQIAWTFnOHLBtSYujrX_G4xDl).
 
 The RStudio `dbplyr` info page can be found [here](https://db.rstudio.com/dplyr/). You can find an example script. You can find an example file in the `extra resources` folder.
+
+## Shiny
+
+For our Shiny lessons, please see the repo [here](https://github.com/MISK-DSI-2020-01/shiny_intro)
